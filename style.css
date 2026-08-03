@@ -131,3 +131,21 @@ footer {
 .html{width:70%;}
 .github{width:65%;}
 .cyber{width:45%;} 
+
+.cert-card{
+    background:#1c1f26;
+    padding:20px;
+    margin:20px 0;
+    border-left:5px solid #4da3ff;
+    border-radius:10px;
+}
+
+.status{
+    display:inline-block;
+    margin-top:10px;
+    padding:6px 12px;
+    background:#00ff88;
+    color:#000;
+    font-weight:bold;
+    border-radius:20px;
+}
