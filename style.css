@@ -149,3 +149,19 @@ footer {
     font-weight:bold;
     border-radius:20px;
 }
+
+.contact-btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:14px 28px;
+    background:#00ff88;
+    color:#000;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:30px;
+    transition:0.3s;
+}
+
+.contact-btn:hover{
+    transform:scale(1.05);
+}
