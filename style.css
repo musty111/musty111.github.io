@@ -165,3 +165,26 @@ footer {
 .contact-btn:hover{
     transform:scale(1.05);
 }
+
+.project-card{
+    background:#1b1b1b;
+    padding:25px;
+    border-radius:10px;
+    margin-top:20px;
+    border-left:4px solid #00ff88;
+}
+
+.project-card h3{
+    color:#00ff88;
+    margin-bottom:10px;
+}
+
+.project-card p{
+    line-height:1.7;
+}
+
+.project-card a{
+    color:#4da6ff;
+    text-decoration:none;
+    font-weight:bold;
+}
